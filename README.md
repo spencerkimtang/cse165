@@ -1,2 +1,2 @@
 # cse165
-OOPs Fall 2020
+Object Oriented Progamming Fall 2020
